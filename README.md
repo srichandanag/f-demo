@@ -1,2 +1,3 @@
 # f-demo
-my f-git repositorry
+my f-git repository
+by chandana
